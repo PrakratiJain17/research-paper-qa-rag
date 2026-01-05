@@ -1,0 +1,15 @@
+# Environment
+.env
+venv/
+__pycache__/
+
+# FAISS
+vectorstore/
+*.faiss
+
+# PDFs
+*.pdf
+uploaded_papers/
+
+# OS
+.DS_Store
